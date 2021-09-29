@@ -50,6 +50,9 @@
   <a href="https://www.java.com/en/" target="_blank"> 
     <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40" height="40"/> 
   </a>
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" alt="arduino" width="40" height="40"/> 
+  </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
