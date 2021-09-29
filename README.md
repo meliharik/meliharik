@@ -44,12 +44,16 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <a href="https://opencv.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="openCV" width="40" height="40"/> 
   </a> 
+  <a href="https://www.java.com/en/" target="_blank"> 
+    <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40" height="40"/> 
+  </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  
 </p>
 
 <!-- <p align= "center"> -->
