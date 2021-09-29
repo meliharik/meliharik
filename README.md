@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
-- 🌎 My personal website **meliharik.com(meliharik.com)**
+- 🌎 My personal website **[meliharik.com](https://www.meliharik.com)**
 
 - 📫 How to reach me: **meliharik@hotmail.com**
 
