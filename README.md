@@ -56,4 +56,4 @@
 
 [Melih Arık](https://github.com/meliharik)
 
-Last Edited on: 05/08/2021
+Made with ☕ and ❤️ in Turkey
