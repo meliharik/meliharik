@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Melih <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Melih <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" id='noclick'></h1>
 <h3 align="center">Mobile Application (Flutter) Developer from Turkey</h3>
 
 - 🔭 I’m currently working at **Mediate**
