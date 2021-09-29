@@ -27,6 +27,9 @@
   <a href="https://flutter.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="flutter" width="40" height="40"/> 
   </a> 
+  <a href="https://dart.dev/" target="_blank"> 
+    <img src="https://static.cdnlogo.com/logos/d/66/dart.svg" alt="dart" width="40" height="40"/> 
+  </a> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
