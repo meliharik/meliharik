@@ -47,13 +47,13 @@
   </a>
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=meliharik&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meliharik&theme=react&layout=compact" />
-</p>
+<!-- <p align= "center"> -->
+<!--   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=meliharik&theme=react&show_icons=true&include_all_commits=true" /> -->
+<!--   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meliharik&theme=react&layout=compact" /> -->
+<!-- </p> -->
 
 ------
 
-[BrantLauro](https://github.com/meliharik)
+[Melih Arık](https://github.com/meliharik)
 
 Last Edited on: 05/08/2021
