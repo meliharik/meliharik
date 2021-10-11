@@ -66,6 +66,10 @@
 
 ------
 
+### 🎧 Now Playing
+
+[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/21dlgyscmbnmydlozypr7hp4i)
+
 [Melih Arık](https://github.com/meliharik)
 
 Made with ☕ and ❤️ in Turkey
