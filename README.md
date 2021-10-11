@@ -68,7 +68,7 @@
 
 ### 🎧 Now Playing
 
-[<p align="center"> ![Spotify](https://novatorem-two-lemon.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem)
+[<p align="center"> ![Spotify](https://novatorem-two-lemon.vercel.app/api/spotify)](https://open.spotify.com/user/199wfac2k17k8dj59qndmxm1n)
 
 [Melih Arık](https://github.com/meliharik)
 
