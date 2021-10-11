@@ -70,7 +70,7 @@
 
 [<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/199wfac2k17k8dj59qndmxm1n)
 
-[![Spotify](https://meliharik.vercel.app/api/spotify)](https://open.spotify.com/user/meliharik)
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 [Melih Arık](https://github.com/meliharik)
 
