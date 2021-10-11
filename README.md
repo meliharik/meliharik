@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melih <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" style="pointer-events:none"></h1>
 <h3 align="center">Mobile Application (Flutter) Developer from Turkey</h3>
 
-- 🔭 I’m currently working at **Mediate**
+- 🔭 I’m currently working on **flutter**
 
 - 🌱 I’m currently learning **Swift, Go**
 
