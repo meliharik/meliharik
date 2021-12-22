@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Swift, Go**
 
+- 🔭 I’m presently working at **Mediate**
+
 - 👯 I’m looking to collaborate on **flutter projects**
 
 - 🌎 My personal website **[meliharik.com](https://www.meliharik.com)**
