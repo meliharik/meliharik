@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift, Go**
 
-- [![image]https://img.icons8.com/material/2x/code-fork--v2.png] I’m presently working at **Mediate**
+- 💻 I’m presently working at **Mediate**
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
