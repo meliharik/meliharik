@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Melih <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" style="pointer-events:none"></h1>
 <h3 align="center">Mobile Application (Flutter) Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **flutter**
+- 💬 Ask me about **Flutter**
 
-- 🌱 I’m currently learning **Swift, Go**
+- 🌱 I’m currently learning **Swift and Go**
 
-- 💻 I’m presently working at **Mediate**
+- 👨‍💻 All of my projects are available at [https://meliharik.dev](https://meliharik.dev)
 
-- 👯 I’m looking to collaborate on **flutter projects**
+- 📝 I regularly write articles on [https://medium.com/@melihify](https://medium.com/@melihify)
 
-- 🌎 My personal website **[meliharik.dev](https://www.meliharik.dev)**
-
-- 📫 How to reach me: **meliharik@hotmail.com**
+- 📫 How to reach me **meliharik@hotmail.com**
 
 - ⚡ What I like to do: **I like so much reading, playing guitar and drum...and coding of course**
 
@@ -61,16 +59,6 @@
   
 </p>
 
-<!-- <p align= "center"> -->
-<!--   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=meliharik&theme=react&show_icons=true&include_all_commits=true" /> -->
-<!--   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meliharik&theme=react&layout=compact" /> -->
-<!-- </p> -->
-
-------
-
-### 🎧 Now Playing
-
-[<p align="center"> ![Spotify](https://novatorem-two-lemon.vercel.app/api/spotify)](https://open.spotify.com/user/199wfac2k17k8dj59qndmxm1n)
 
 [Melih Arık](https://github.com/meliharik)
 
