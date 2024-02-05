@@ -33,7 +33,7 @@
     <img src="https://static.cdnlogo.com/logos/d/66/dart.svg" alt="dart" width="40" height="40"/> 
   </a> 
   <a href="https://developer.apple.com/swift/" target="_blank"> 
-    <img src="[https://static.cdnlogo.com/logos/d/66/dart.svg](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-512.png)" alt="Swift" width="40" height="40"/> 
+    <img src="https://static.cdnlogo.com/logos/d/66/dart.svg](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-512.png" alt="Swift" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
