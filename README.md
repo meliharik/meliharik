@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Melih</h1>
-<h3 align="center">Mobile Application (Flutter) Developer from Turkey</h3>
+<h3 align="center">Mobile Application Developer from Turkey</h3>
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** and **Swift**
 
-- 🌱 I’m currently learning **Swift and Go**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://meliharik.dev](https://meliharik.dev)
 
@@ -61,8 +61,5 @@
   </a>
   
 </p>
-
-
-[Melih Arık](https://github.com/meliharik)
 
 Made with ☕ and ❤️ in Turkey
