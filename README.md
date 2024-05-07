@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@melihify](https://medium.com/@melihify)
 
-- 📫 How to reach me **meliharik@hotmail.com**
+- 📫 How to reach me **hi@meliharik.dev**
 
 - ⚡ What I like to do: **I like so much reading, playing guitar and drum...and coding of course**
 
