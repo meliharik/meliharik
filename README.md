@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Melih</h1>
-<h3 align="center">Mobile Application Developer from Turkey</h3>
+<h3 align="center">Mobile Application Developer based in Estonia 🇪🇪</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meliharik&label=Profile%20views&color=0e75b6&style=flat" alt="meliharik" />
+  <img src="https://komarev.com/ghpvc/?username=meliharik&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="meliharik" />
+  <img src="https://img.shields.io/github/followers/meliharik?label=Followers&style=for-the-badge&color=24292e&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/meliharik?style=for-the-badge&color=24292e&logo=reverbnation&logoColor=white" alt="stars" />
+  <img src="https://img.shields.io/badge/Location-Estonia-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="location" />
 </p>
 
+---
+
+### 🚀 Quick Info
 - 💬 Ask me about **Flutter** and **Swift**
 - 🌱 I’m currently learning **Java Spring Boot** and **Go**
 - 👨‍💻 All of my projects are available at [meliharik.dev](https://meliharik.dev)
@@ -16,10 +22,11 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/melihify/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melihify" height="30" width="40" /></a>
-<a href="https://twitter.com/melihify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melihify" height="30" width="40" /></a>
-<a href="https://www.instagram.com/melihifyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melihifyy" height="30" width="40" /></a>
-<a href="mailto:meliharik@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="meliharik@hotmail.com" height="25" /></a>
+<a href="https://www.linkedin.com/in/melihify/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://twitter.com/melihify" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+<a href="https://www.instagram.com/melihifyy/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="mailto:meliharik@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="outlook" /></a>
+<a href="https://medium.com/@melihify" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" /></a>
 </p>
 
 ---
@@ -57,10 +64,9 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meliharik&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Melih's GitHub stats" />
-  
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meliharik&layout=compact&theme=visual_studio_dark&hide_border=false" alt="Melih's Top Langs" />
 </p>
 
 <p align="center">
-  Made with ☕ and ❤️ in Turkey
+  Made with ☕ and ❤️ in Estonia
 </p>
