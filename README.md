@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Application Developer from Turkey</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=melihify&label=Profile%20views&color=0e75b6&style=flat" alt="melihify" />
+  <img src="https://komarev.com/ghpvc/?username=meliharik&label=Profile%20views&color=0e75b6&style=flat" alt="meliharik" />
 </p>
 
 - 💬 Ask me about **Flutter** and **Swift**
@@ -49,16 +49,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=meliharik&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Melih's GitHub stats" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meliharik&layout=compact&theme=visual_studio_dark&hide_border=false" alt="Melih's Top Langs" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meliharik&theme=visual_studio_dark&bg_color=0D1117&hide_border=true" alt="meliharik activity graph" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=meliharik&theme=visual_studio_dark" alt="melihify streak" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meliharik&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Melih's GitHub stats" />
+  
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meliharik&layout=compact&theme=visual_studio_dark&hide_border=false" alt="Melih's Top Langs" />
 </p>
 
 <p align="center">
