@@ -50,9 +50,15 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=melihify&show_icons=true&theme=visual_studio_dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihify&layout=compact&theme=visual_studio_dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=melihify&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Melih's GitHub stats" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihify&layout=compact&theme=visual_studio_dark&hide_border=false" alt="Melih's Top Langs" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=melihify&theme=visual_studio_dark" alt="melihify streak" />
 </p>
 
 <p align="center">
