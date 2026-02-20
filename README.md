@@ -56,11 +56,7 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meliharik&theme=visual_studio_dark&bg_color=0D1117&hide_border=true" alt="meliharik activity graph" />
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meliharik&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Melih's GitHub stats" />
